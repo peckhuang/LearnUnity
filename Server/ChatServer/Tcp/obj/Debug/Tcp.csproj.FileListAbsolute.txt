@@ -1,0 +1,9 @@
+F:\code\github\unity\LearnUnity\Server\ChatServer\Tcp\bin\Debug\Tcp.exe.config
+F:\code\github\unity\LearnUnity\Server\ChatServer\Tcp\obj\Debug\Tcp.csprojResolveAssemblyReference.cache
+F:\code\github\unity\LearnUnity\Server\ChatServer\Tcp\bin\Debug\Tcp.exe
+F:\code\github\unity\LearnUnity\Server\ChatServer\Tcp\bin\Debug\Tcp.pdb
+F:\code\github\unity\LearnUnity\Server\ChatServer\Tcp\bin\Debug\protobuf-net.dll
+F:\code\github\unity\LearnUnity\Server\ChatServer\Tcp\bin\Debug\protobuf-net.pdb
+F:\code\github\unity\LearnUnity\Server\ChatServer\Tcp\bin\Debug\protobuf-net.xml
+F:\code\github\unity\LearnUnity\Server\ChatServer\Tcp\obj\Debug\Tcp.exe
+F:\code\github\unity\LearnUnity\Server\ChatServer\Tcp\obj\Debug\Tcp.pdb

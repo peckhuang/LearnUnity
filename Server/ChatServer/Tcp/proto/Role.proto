@@ -1,0 +1,15 @@
+
+// 技能信息
+message VO_Skill
+{
+	required int32 skillGroupId = 1; // 技能id
+	required int32 level = 2; // 技能等级
+}
+
+// 玩家信息消息
+
+message CS_RoleInfo
+{
+	required int32 playerId = 1; // 角色id
+	repeated VO_Skill skills = 2; // 学说组
+}

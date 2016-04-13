@@ -1,0 +1,6 @@
+
+
+message CS_RoleInfo
+{
+	required int32 playerId;
+}

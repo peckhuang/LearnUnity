@@ -1,0 +1,1 @@
+protogen -i:"proto/zone.proto" -o:"csharp_class/zone_pb.cs" -ns:protobuf
